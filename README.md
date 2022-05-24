@@ -10,3 +10,6 @@ C#，.NET 4.5
 
 SolidWorks 2016
 
+## 预览
+
+![main](./screenshot/main.jpg)
