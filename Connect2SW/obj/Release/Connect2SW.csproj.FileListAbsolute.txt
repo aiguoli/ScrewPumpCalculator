@@ -1,0 +1,10 @@
+D:\C#Projects\Connect2SW\Connect2SW\bin\Release\Connect2SW.exe.config
+D:\C#Projects\Connect2SW\Connect2SW\bin\Release\Connect2SW.exe
+D:\C#Projects\Connect2SW\Connect2SW\bin\Release\Connect2SW.pdb
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.csprojAssemblyReference.cache
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.Form1.resources
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.Properties.Resources.resources
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.csproj.GenerateResource.cache
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.csproj.CoreCompileInputs.cache
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.exe
+D:\C#Projects\Connect2SW\Connect2SW\obj\Release\Connect2SW.pdb
